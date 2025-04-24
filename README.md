@@ -12,8 +12,8 @@ On this website, you'll find:
 
 The website is hosted on GitHub Pages and can be accessed at the following link:
 
-[https://akamugin.github.io/]
+[https://akamugin.github.io/ChanYang/]
 
 Simply click the link to explore the music and sheet music available!
-
+`
 Thanks for visiting **채원이의 찬양리스트**! I hope you enjoy the music as much as I do :))))
